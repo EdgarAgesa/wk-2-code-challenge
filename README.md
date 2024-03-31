@@ -30,7 +30,7 @@ Github
 Javascript
 
 ## Support and contact details
-github.com/Edgar-Agesa
+github.com/EdgarAgesa
 
 ### License
 The content of this site is licensed under the MIT license
